@@ -202,13 +202,13 @@ main #lineup .gallery {
 }
 
 #lineup .gallery .product2 {
-    background-image: url("./rescources/lineup/controllers.jpg");
+    background-image: url("./rescources/lineup/microphone.jpg");
     background-size: cover;
     background-position: center;
 }
 
 #lineup .gallery .product3 {
-    background-image: url("./rescources/lineup/game-console.jpg");
+    background-image: url("./rescources/lineup/printer.jpg");
     background-size: cover;
     background-position: center;
 }
